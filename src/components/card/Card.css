@@ -1,0 +1,29 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5%;
+}
+.alertImage{
+    width: 600px;
+    height: 600px;
+    border-radius: 8px;
+    box-shadow: 3px 2px 10px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 2px 10px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 2px 10px -1px rgba(0,0,0,0.75);;
+}
+.detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.status-card{
+    margin-top: 5%;
+    width: 300px;
+    padding-left: 16px;
+    border-radius: 8px;
+    box-shadow: 3px 2px 10px -1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 2px 10px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 2px 10px -1px rgba(0,0,0,0.75);;
+}

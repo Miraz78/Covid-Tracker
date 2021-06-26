@@ -1,0 +1,13 @@
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    /* background: lightgray; */
+    height: 200px;
+}
+.heading{
+   
+    font-size: 60px;
+    color: seagreen;
+}
